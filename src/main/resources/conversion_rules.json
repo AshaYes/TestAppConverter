@@ -1,0 +1,10 @@
+[
+  {"fromUnit": "m", "toUnit": "ft", "conversionFactor": 3.281},
+  {"fromUnit": "ft", "toUnit": "m", "conversionFactor": 0.3048},
+  {"fromUnit": "cm", "toUnit": "in", "conversionFactor": 0.3937},
+  {"fromUnit": "in", "toUnit": "m", "conversionFactor": 0.0254},
+  {"fromUnit": "km", "toUnit": "mi", "conversionFactor": 0.6214},
+  {"fromUnit": "mi", "toUnit": "km", "conversionFactor": 1.6093},
+  {"fromUnit": "kg", "toUnit": "lb", "conversionFactor": 2.2046},
+  {"fromUnit": "lb", "toUnit": "kg", "conversionFactor": 0.4536}
+]
